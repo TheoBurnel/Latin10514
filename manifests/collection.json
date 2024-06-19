@@ -1,0 +1,13 @@
+{
+  "id" : "https://TheoBurnel.github.io/Latin10514/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TheoBurnel/Latin10514 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Latin10514/manifests/manifest.json",
+    "label" : "BnF. Département des Manuscrits. Latin 10514"
+  } ]
+}
