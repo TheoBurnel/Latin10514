@@ -1,0 +1,324 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:8888/annotation/1718790601621",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:50:01",
+    "dcterms:modified" : "2024-06-19T11:50:01",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : cadre, liser&eacute;\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : gris\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : noir de carbone",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : cadre, liser&eacute;</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : gris</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : noir de carbone</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3824,1467,62,62"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3823.98029,1467.2247h30.84363v0h30.84363v30.84363v30.84363h-30.84363h-30.84363v-30.84363z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a2b9918b-17dc-48e8-ac77-ba35bf6a34bc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790683534",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:51:23",
+    "dcterms:modified" : "2024-06-19T11:51:23",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : animal, b&oelig;uf\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : animal, b&oelig;uf</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2323,1821,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2322.61629,1820.7569h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_12304ee8-73f2-4367-ba86-23a7b70b2ff2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790767664",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:52:47",
+    "dcterms:modified" : "2024-06-19T11:52:47",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : animal, b&oelig;uf, aile\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : noir\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : animal, b&oelig;uf, aile</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : noir</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2479,2358,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2478.72142,2357.94218h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_50cdffdf-e866-4c21-978b-3e9295920a43\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790874134",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:54:34",
+    "dcterms:modified" : "2024-06-19T11:54:34",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : v&ecirc;tement, manteau\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : brun\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : orseille, oxyde de plomb",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : v&ecirc;tement, manteau</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : brun</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : orseille, oxyde de plomb</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3324,3256,71,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3323.52562,3255.54665h35.43495v0h35.43495v33.13929v33.13929h-35.43495h-35.43495v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b9fb07f6-3bf9-40bc-9a1b-250c0ec62f54\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    }, {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2713,3797,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2712.87911,3797.32326h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2bf69955-eb90-4bbf-ae85-df8b30b27cde\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790874134",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:54:34",
+    "dcterms:modified" : "2024-06-19T11:54:34",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : v&ecirc;tement, manteau\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : brun\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : orseille, oxyde de plomb",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : v&ecirc;tement, manteau</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : brun</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : orseille, oxyde de plomb</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3324,3256,71,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3323.52562,3255.54665h35.43495v0h35.43495v33.13929v33.13929h-35.43495h-35.43495v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b9fb07f6-3bf9-40bc-9a1b-250c0ec62f54\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    }, {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2713,3797,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2712.87911,3797.32326h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2bf69955-eb90-4bbf-ae85-df8b30b27cde\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790913646",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:55:13",
+    "dcterms:modified" : "2024-06-19T11:55:13",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : pupitre\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : bleu\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : pupitre</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : bleu</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3792,3049,71,71"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3791.841,3048.93693h35.43495v0h35.43495v35.43495v35.43495h-35.43495h-35.43495v-35.43495z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_591fb733-8b3b-44ff-b2cf-2c36c26fd2d8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718790982151",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:56:22",
+    "dcterms:modified" : "2024-06-19T11:56:22",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : d&eacute;cor, banc\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : vert\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : vert-de-gris, ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : d&eacute;cor, banc</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : vert</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : vert-de-gris, ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2286,3742,62,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2285.88568,3742.22733h30.84363v0h30.84363v33.13929v33.13929h-30.84363h-30.84363v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a63b266-e58f-407c-a92b-e4085d8b4499\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718791028404",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:57:08",
+    "dcterms:modified" : "2024-06-19T11:57:08",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : d&eacute;cor, banc\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : d&eacute;cor, banc</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3650,3770,71,71"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3649.50986,3769.7753h35.43495v0h35.43495v35.43495v35.43495h-35.43495h-35.43495v-35.43495z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dac9c27f-1abe-411a-a765-31a2d5c0c32c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718791128715",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:58:48",
+    "dcterms:modified" : "2024-06-19T11:58:48",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : fond, d&eacute;cor\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Motif : fond, d&eacute;cor</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Couleur : jaune</p>\n<p style=\"margin-top: 0px; caret-color: #333333; color: #333333; font-family: 'Open Sans', 'Lucida Grande', Verdana, Arial, sans-serif;\">Mat&eacute;riau : ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3650,4337,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3649.50986,4336.8042h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_24d77829-cd36-40b5-9288-026784087ef7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Latin10514/annotations/f14.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
