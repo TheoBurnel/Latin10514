@@ -1,0 +1,134 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:8888/annotation/1718788893452",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:21:33",
+    "dcterms:modified" : "2024-06-19T11:21:33",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif : d&eacute;cor, fond\nCouleur : vert\nMat&eacute;riau : vert-de-gris",
+      "format" : "text/html",
+      "chars" : "<p>Motif : d&eacute;cor, fond</p>\n<p>Couleur : vert</p>\n<p>Mat&eacute;riau : vert-de-gris</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1322,2241,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1321.70696,2240.86334h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f71a87e0-a9a7-43f8-b10c-4bd506c6084b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f277"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718788934369",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:22:14",
+    "dcterms:modified" : "2024-06-19T11:22:14",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif : d&eacute;cor, entrelacs\nCouleur : gris\nMat&eacute;riau : noir de carbone",
+      "format" : "text/html",
+      "chars" : "<p>Motif : d&eacute;cor, entrelacs</p>\n<p>Couleur : gris</p>\n<p>Mat&eacute;riau : noir de carbone</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2336,2200,66,71"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2336.39028,2199.54139h33.13929v0h33.13929v35.43495v35.43495h-33.13929h-33.13929v-35.43495z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5f261cb5-6f5d-4545-944b-e49fa09b7d97\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f277"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718788987165",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:23:07",
+    "dcterms:modified" : "2024-06-19T11:23:07",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif : d&eacute;ocr, lettre, fond\nCouleur : bleu\nMat&eacute;riau : lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p>Motif : d&eacute;ocr, lettre, fond</p>\n<p>Couleur : bleu</p>\n<p>Mat&eacute;riau : lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1758,2627,71,71"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1757.88305,2626.53482h35.43495v0h35.43495v35.43495v35.43495h-35.43495h-35.43495v-35.43495z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7b33abb5-cca3-4306-921f-75cbf8e65533\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f277"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718789076223",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-19T11:24:36",
+    "dcterms:modified" : "2024-06-19T11:24:36",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif : d&eacute;cor, lettre, initiale\nCouleur : orange\nMat&eacute;riau : oxyde de plomb",
+      "format" : "text/html",
+      "chars" : "<p>Motif : d&eacute;cor, lettre, initiale</p>\n<p>Couleur : orange</p>\n<p>Mat&eacute;riau : oxyde de plomb</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://c48b3c6a-12fa-4894-9ba5-5cfc7a2d2ff3",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1909,3862,66,66"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1909.39685,3861.60184h33.13929v0h33.13929v33.13929v33.13929h-33.13929h-33.13929v-33.13929z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b7ada6c2-925a-4a23-a3e5-e035a2c8eaf2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b525209799/canvas/f277"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Latin10514/annotations/f277.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
